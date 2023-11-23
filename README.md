@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,My name is Jaruwat Saengowh </h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaruwatSaengowh&label=Profile%20views&color=0e75b6&style=flat" alt="AsherBrooke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaruwatSaengowhCOO&label=Profile%20views&color=0e75b6&style=flat" alt="AsherBrooke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JaruwatSaengowh" alt="JaruwatSaengowh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JaruwatSaengowhCOO" alt="JaruwatSaengowhCOO" /></a> </p>
 
 <h3 align="left">Connect with me (Line Id) : 25612727</h3>
 <p align="left">
@@ -14,6 +14,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaruwatSaengowh&" alt="JaruwatSaengowh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaruwatSaengowhCOO&" alt="JaruwatSaengowhCOO" /></p>
 
 
